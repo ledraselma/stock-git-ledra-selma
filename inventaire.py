@@ -1,0 +1,1 @@
+print("Gestion de stock - Edition 1.0")
